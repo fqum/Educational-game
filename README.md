@@ -1,2 +1,2 @@
-# Educational-game
-A C++ educational learning game for first-grade students, featuring interactive quizzes in mathematics, letters, and numbers, with separate Teacher, Student, and Parent interfaces and student score tracking.
+# Learn-By-Game
+Learn-By-Game is an educational tool for first-grade students. It uses interactive gameplay to teach letters, numbers, and basic math. The goal is to make foundational learning engaging and fun for children.
